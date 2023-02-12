@@ -14,6 +14,7 @@
 ### 🖥 Skills
 
 - Machine Learning
+- Reinforcement Learning
 - Deep Learning
 - Natural Language Processing
 - Robotic and Control systems
