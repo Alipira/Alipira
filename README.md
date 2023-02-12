@@ -16,7 +16,6 @@
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
-- ROS
 - Robotic and Control systems
 ### ⚙️ Tech Stack
 
