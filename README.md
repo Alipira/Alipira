@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/Alipira?label=Follow&style=social)](https://github.com/Alipira)
 
 - 💻 Machine Learing and Multi-agent systems researcher
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html), [Graph Algorithms](https://learning.oreilly.com/library/view/Graph Algorithms/9781492052197/preface01.html). Check it out if interested.
+- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html), [Graph Algorithms](https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/). Check it out if interested.
 - 📫 How to reach me: alipira1992@gmail.com
 
 
