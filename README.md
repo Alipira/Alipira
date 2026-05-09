@@ -1,7 +1,6 @@
 # Ali Pira
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-pira/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali_pira/)](https://www.instagram.com/ali_pira)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alipira1992@gmail.com)
 [![Github](https://img.shields.io/github/followers/Alipira?label=Follow&style=social)](https://github.com/Alipira)
 
