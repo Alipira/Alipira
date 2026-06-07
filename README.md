@@ -32,7 +32,6 @@ I'm a Data Scientist and AI Engineer who builds machine learning systems end-to-
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&color=353535)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=rust&logoColor=white&color=353535)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=white&color=353535)
 
 **ML / Deep Learning**
 
@@ -53,12 +52,6 @@ I'm a Data Scientist and AI Engineer who builds machine learning systems end-to-
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy&logoColor=white&color=353535)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=matplotlib&logoColor=white&color=353535)
 
-## 🚀 Featured Projects
-
-- **[LinkedIn Comments Sentiment Analysis](https://github.com/Alipira/LinkedIn-comments-Sentiment-Analysis)** — A scraping + sentiment-analysis pipeline combining Python and Rust, using MLflow for experiment tracking and Feast as a feature store.
-- **[Telegram Statistics](https://github.com/Alipira/telegram-statistics)** — Analytics over Telegram chat data in Python.
-- **[Multiple Linear Regression in Rust](https://github.com/Alipira/Multiple-Linear-Regression_using-Rust)** — Implementing ML algorithms from scratch in Rust.
-- **[Power Consumption](https://github.com/Alipira/PowerConsumtion)** — Power-consumption modeling in Python.
 
 ## 📊 GitHub Stats
 
