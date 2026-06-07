@@ -21,6 +21,7 @@ I'm a Data Scientist and AI Engineer who builds machine learning systems end-to-
 - 🧠 Going deep on **deep learning, NLP, and LLM alignment** (DPO / PPO / RLHF)
 - 🛠️ Experimenting with **MLOps tooling** — MLflow for experiment tracking, Feast for feature storage
 - 📫 Reach me at **alipira1992@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/ali-pira/)
+- 🚀 Founder @ Novarax
 
 ## 🎯 Focus Areas
 
